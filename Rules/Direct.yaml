@@ -7,3 +7,5 @@
 # TOTAL: 1
 payload:
   - DOMAIN-SUFFIX,interactivebrokers.com
+  - DOMAIN-SUFFIX,api.ibkr.com
+  - DOMAIN-SUFFIX,ibllc.com.cn
