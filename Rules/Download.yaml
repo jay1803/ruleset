@@ -7,3 +7,4 @@
 # TOTAL: 1
 payload:
   - DOMAIN-SUFFIX,assets1.xboxlive.com
+  - DOMAIN-KEYWORD,xboxassets
