@@ -9,3 +9,7 @@ payload:
   - DOMAIN-SUFFIX,interactivebrokers.com
   - DOMAIN-SUFFIX,api.ibkr.com
   - DOMAIN-SUFFIX,ibllc.com.cn
+  - DOMAIN-SUFFIX,moomoo.com
+  - DOMAIN-SUFFIX,futuhk.com
+  - DOMAIN-SUFFIX,futuin.com
+  - DOMAIN-SUFFIX,futunn.com
