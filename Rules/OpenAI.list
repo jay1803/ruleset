@@ -5,3 +5,6 @@
 # DOMAIN-SUFFIX: 1
 # PROCESS-NAME: 0
 # TOTAL: 1
+DOMAIN,open-ai-chat-omega.vercel.app
+DOMAIN-KEYWORD,chatgpt-async-webps-prod
+DOMAIN,perplexity.ai
