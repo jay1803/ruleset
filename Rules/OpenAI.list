@@ -1,10 +1,5 @@
-# NAME: Download
-# AUTHOR: max
-# UPDATED: 2024-01-08 16:00:03
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 1
-# PROCESS-NAME: 0
-# TOTAL: 1
 DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app
 DOMAIN-KEYWORD,chatgpt-async-webps-prod
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN,chatgpt.com
