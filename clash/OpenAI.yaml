@@ -3,3 +3,4 @@ payload:
 - DOMAIN-KEYWORD,chatgpt-async-webps-prod
 - DOMAIN-SUFFIX,perplexity.ai
 - DOMAIN-SUFFIX,apple-relay.apple.com
+- DOMAIN,apple-relay.apple.com
