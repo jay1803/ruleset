@@ -7,3 +7,4 @@ payload:
     - DOMAIN-SUFFIX, apple.news
     - DOMAIN, news-edge.apple.com
     - DOMAIN, news-app-events.apple.com
+    - DOMAIN, proxy.safebrowsing.apple
