@@ -2,3 +2,4 @@ payload:
 - DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app
 - DOMAIN-KEYWORD,chatgpt-async-webps-prod
 - DOMAIN-SUFFIX,perplexity.ai
+- DOMAIN-SUFFIX,apple-relay.apple.com
