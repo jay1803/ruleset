@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX, steamstatic.com
+DOMAIN-SUFFIX,vercel.app
 
 # TradingView
 DOMAIN-SUFFIX, tradingview.com
