@@ -1,4 +1,9 @@
 DOMAIN-SUFFIX, steamstatic.com
+
+# TradingView
+DOMAIN-SUFFIX, tradingview.com
+
+# Apple
 DOMAIN-SUFFIX, podcasts.apple.com
 DOMAIN-SUFFIX, ls.apple.com
 DOMAIN, news-events.apple.com
