@@ -5,3 +5,4 @@ payload:
 - DOMAIN-SUFFIX,perplexity.ai
 - DOMAIN-SUFFIX,apple-relay.apple.com
 - DOMAIN,apple-relay.apple.com
+- DOMAIN-SUFFIX,google.dev
