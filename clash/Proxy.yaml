@@ -2,7 +2,7 @@ payload:
     - DOMAIN-SUFFIX, steamstatic.com
     - DOMAIN-SUFFIX, podcasts.apple.com
     - DOMAIN-SUFFIX, ls.apple.com
-    - DOMAIN-SUFFIX, un.ms
+    - DOMAIN, un.ms
     - DOMAIN, news-events.apple.com
     - DOMAIN, news-todayconfig-edge.apple.com
     - DOMAIN-SUFFIX, apple.news
