@@ -1,6 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,interactivebrokers.com
-  - DOMAIN-SUFFIX,api.ibkr.com
   - DOMAIN-SUFFIX,ibllc.com.cn
   - DOMAIN, checkip.synology.com
   - DOMAIN-SUFFIX, tailscale.com
