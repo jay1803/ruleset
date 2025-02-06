@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,gemini.google.com
+DOMAIN-SUFFIX,groq.com
