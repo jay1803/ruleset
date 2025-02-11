@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,gemini.google.com
 DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,openrouter.ai
