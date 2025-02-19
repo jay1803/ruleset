@@ -9,12 +9,6 @@ DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,api.ibkr.com
 DOMAIN-SUFFIX,ibllc.com.cn
 
-# Futu
-DOMAIN-SUFFIX,moomoo.com
-DOMAIN-SUFFIX,futuhk.com
-DOMAIN-SUFFIX,futuin.com
-DOMAIN-SUFFIX,futunn.com
-
 # Windows Update
 DOMAIN-SUFFIX, windowsupdate.com, Direct
 DOMAIN, mp.microsoft.com, Direct
