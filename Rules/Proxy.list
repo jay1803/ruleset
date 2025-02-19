@@ -4,6 +4,12 @@ DOMAIN-SUFFIX,vercel.app
 # TradingView
 DOMAIN-SUFFIX, tradingview.com
 
+# Futu
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futuin.com
+DOMAIN-SUFFIX,futunn.com
+
 # Apple
 DOMAIN-SUFFIX, podcasts.apple.com
 DOMAIN-SUFFIX, ls.apple.com
